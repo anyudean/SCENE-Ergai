@@ -1,4 +1,4 @@
 "version": "7", 
 "versionCode":7,
    "updateLog": "1. 新增XX功能；2. 修复XXbug；3. 优化体验。",  // 更新日志（用户可见） 
-   "zipUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1095044194/8dd40cb4-10ca-4d01-9238-a799c31e31c1?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-11-12T20%3A13%3A48Z&rscd=attachment%3B+filename%3DSCENE-HP-V7.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-11-12T19%3A13%3A43Z&ske=2025-11-12T20%3A13%3A48Z&sks=b&skv=2018-11-09&sig=BrIWPibVpagRGrOvB4zxR8AQ2m3YJTD7GYki3psvrjI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2Mjk3NTM2MywibmJmIjoxNzYyOTc1MDYzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Es9VJt9yZy8jg9oQVgBxbaHDQJkjB2vZamGM53kax2Y&response-content-disposition=attachment%3B%20filename%3DSCENE-HP-V7.zip&response-content-type=application%2Foctet-stream"  // ZIP包的直接下载地址（重点！） 
+   "zipUrl": "https://github.com/anyudean/SCENE-Ergai/releases/download/7/SCENE-HP-V7.zip"  // ZIP包的直接下载地址（重点！） 
